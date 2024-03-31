@@ -6,3 +6,4 @@ line 2
 line 1 by me
 >>>>>>> newBranch
 hlo
+hiii line 2
