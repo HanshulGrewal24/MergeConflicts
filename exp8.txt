@@ -6,4 +6,11 @@ line 2
 line 1 by me
 >>>>>>> newBranch
 hlo
+<<<<<<< HEAD
 hiii line 2
+=======
+changes done by dev 1
+heyoooo!!
+>>>>>>> newBranch
+=============
+changes done by dev 1
