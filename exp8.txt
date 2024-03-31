@@ -6,3 +6,5 @@ line 2
 line 1 by me
 >>>>>>> newBranch
 hlo
+changes done by dev 1
+heyoooo!!
